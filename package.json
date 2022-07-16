@@ -1,0 +1,23 @@
+{
+  "name": "consuming-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@oruga-ui/oruga-next": "^0.5.5",
+    "@vee-validate/i18n": "^4.5.11",
+    "@vee-validate/rules": "^4.5.11",
+    "pinia": "^2.0.14",
+    "vee-validate": "^4.5.11",
+    "vue": "^3.2.25",
+    "vue-3-component-library-test": "^0.0.12591"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
